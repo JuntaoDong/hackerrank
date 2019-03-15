@@ -1,5 +1,6 @@
 # HackerRank Practices
 ![Hackerrank](https://github.com/JuntaoDong/hackerrank/blob/master/hackerrank.png)
+
 Visit my profile at: https://www.hackerrank.com/juntaodong
 
 ## 30 Days of Code - Python 3
