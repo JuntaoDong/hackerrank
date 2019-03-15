@@ -1,5 +1,5 @@
 # HackerRank Practices
-
+![Hackerrank](https://github.com/JuntaoDong/hackerrank/hackerrank.png)
 Visit my profile at: https://www.hackerrank.com/juntaodong
 
 ## 30 Days of Code - Python 3
@@ -58,16 +58,16 @@ Visit my profile at: https://www.hackerrank.com/juntaodong
 
 
 ## SQL - MySQL
-+ Revising the Select Query I | [Question](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | Solution
-+ Revising the Select Query II | [Question](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | Solution
-+ Select All | [Question](https://www.hackerrank.com/challenges/select-all-sql/problem) | Solution
-+ Select By ID | [Question](https://www.hackerrank.com/challenges/select-by-id/problem) | Solution
-+ Japanese Cities' Attributes | [Question](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | Solution
-+ Japanese Cities' Names | [Question](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | Solution
-+ Weather Observation Station 1 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)
-+ Weather Observation Station 3 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)
-+ Weather Observation Station 4 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)
-+ Weather Observation Station 5 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)
++ Revising the Select Query I | [Question](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Revising%20the%20Select%20Query%20I.sql)
++ Revising the Select Query II | [Question](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Revising%20the%20Select%20Query%20II.sql)
++ Select All | [Question](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Select%20All.sql)
++ Select By ID | [Question](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Select%20By%20ID.sql)
++ Japanese Cities' Attributes | [Question](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Japanese%20Cities'%20Attributes.sql)
++ Japanese Cities' Names | [Question](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Japanese%20Cities'%20Names.sql)
++ Weather Observation Station 1 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Weather%20Observation%20Station%201.sql)
++ Weather Observation Station 3 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Weather%20Observation%20Station%203.sql)
++ Weather Observation Station 4 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Weather%20Observation%20Station%204.sql)
++ Weather Observation Station 5 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Weather%20Observation%20Station%205.sql)
 
 
 
