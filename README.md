@@ -1,4 +1,4 @@
-# HackerRank Solutions
+# HackerRank Solutions - Keep Updating
 ![Hackerrank](https://github.com/JuntaoDong/hackerrank/blob/master/hackerrank.png)
 
 ## 30 Days of Code - Python 3
