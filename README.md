@@ -1,7 +1,9 @@
 # HackerRank Solutions - Keep Updating
+
 ![Hackerrank](https://github.com/JuntaoDong/hackerrank/blob/master/hackerrank.png)
 
 ## 30 Days of Code - Python 3
+
 | Title | Question | Solution |
 | ----- | -------- | -------- |
 Day 0: Hello, World. | [Question](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/30%20Days%20of%20Code/day00_hello_world.py)|
@@ -35,8 +37,8 @@ Day 27: Testing | [Question](https://www.hackerrank.com/challenges/30-testing) |
 Day 28: RegEx, Patterns, and Intro to Databases | [Question](https://www.hackerrank.com/challenges/30-regex-patterns) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/30%20Days%20of%20Code/day28_regex_patterns_and_intro_to_databases.py)
 Day 29: Bitwise AND | [Question](https://www.hackerrank.com/challenges/30-bitwise-and) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/30%20Days%20of%20Code/day29_bitwise_and.py)
 
-
 ## 10 Days of Statistics - Python 3
+
 | Title | Question | Solution |
 | ----- | -------- | -------- |
 Day 0: Mean, Median, and Mode | [Question](https://www.hackerrank.com/challenges/s10-basic-statistics) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/10%20Days%20of%20Statistics/day00_mean_median_mode.py)
@@ -59,8 +61,8 @@ Day 7: Spearman's Rank Correlation Coefficient | [Question](https://www.hackerra
 Day 8: Least Square Regression Line | [Question](https://www.hackerrank.com/challenges/s10-least-square-regression-line) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/10%20Days%20of%20Statistics/day08_least_square_regression_line.py)
 Day 9: Multiple Linear Regression | [Question](https://www.hackerrank.com/challenges/s10-multiple-linear-regression) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/10%20Days%20of%20Statistics/day09_multiple_linear_regression.py)
 
-
 ## SQL - MySQL
+
 | Title | Question | Solution |
 | ----- | -------- | -------- |
 Revising the Select Query I | [Question](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Revising%20the%20Select%20Query%20I.sql)
@@ -73,7 +75,8 @@ Weather Observation Station 1 | [Question](https://www.hackerrank.com/challenges
 Weather Observation Station 3 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Weather%20Observation%20Station%203.sql)
 Weather Observation Station 4 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Weather%20Observation%20Station%204.sql)
 Weather Observation Station 5 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Weather%20Observation%20Station%205.sql)
-
-
-
-
+Weather Observation Station 6 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution]()
+Weather Observation Station 7 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution]()
+Weather Observation Station 8 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution]()
+Weather Observation Station 9 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution]()
+Weather Observation Station 10 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution]()
