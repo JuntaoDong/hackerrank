@@ -80,3 +80,4 @@ Weather Observation Station 7 | [Question](https://www.hackerrank.com/challenges
 Weather Observation Station 8 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution]()
 Weather Observation Station 9 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution]()
 Weather Observation Station 10 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution]()
+Weather Observation Station 11 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution]()
