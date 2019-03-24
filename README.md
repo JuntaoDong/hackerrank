@@ -81,3 +81,7 @@ Weather Observation Station 8 | [Question](https://www.hackerrank.com/challenges
 Weather Observation Station 9 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution]()
 Weather Observation Station 10 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution]()
 Weather Observation Station 11 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution]()
+Weather Observation Station 12 | [Question](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Solution]()
+Higher Than 75 Marks | [Question](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution]()
+Employee Names | [Question](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution]()
+Employee Salaries | [Question](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution]()
