@@ -85,3 +85,4 @@ Weather Observation Station 12 | [Question](https://www.hackerrank.com/challenge
 Higher Than 75 Marks | [Question](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution]()
 Employee Names | [Question](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution]()
 Employee Salaries | [Question](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution]()
+Type of Triangle | [Question](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution]()
