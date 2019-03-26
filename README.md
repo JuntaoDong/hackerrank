@@ -92,4 +92,4 @@ Revising Aggregations - Averages | [Question](https://www.hackerrank.com/challen
 Average Population | [Question](https://www.hackerrank.com/challenges/average-population/problem) | [Solution]()
 Japan Population | [Question](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution]()
 Population Density Difference | [Question](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution]()
-The Blunder | [Question]https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution]()
+The Blunder | [Question](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution]()
