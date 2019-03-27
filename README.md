@@ -108,3 +108,14 @@ African Cities | [Question](https://www.hackerrank.com/challenges/african-cities
 Average Population of Each Continent | [Question](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution]()
 Draw The Triangle 1 | [Question](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution]()
 Draw The Triangle 2 | [Question](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution]()
+The PADS | [Question](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution]()
+Occupations | [Question](https://www.hackerrank.com/challenges/occupations/problem) | [Solution]()
+Binary Tree Nodes | [Question](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution]()
+New Companies | [Question](https://www.hackerrank.com/challenges/the-company/problem) | [Solution]()
+Projects | [Question](https://www.hackerrank.com/challenges/projects/problem) | [Solution]()
+Placements | [Question](https://www.hackerrank.com/challenges/placements/problem) | [Solution]()
+Symmetric Pairs | [Question](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [Solution]()
+The Report | [Question](https://www.hackerrank.com/challenges/the-report/problem) | [Solution]()
+
+
+Interviews | [Question](https://www.hackerrank.com/challenges/interviews/problem) | [Solution]()
