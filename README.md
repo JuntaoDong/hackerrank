@@ -108,7 +108,7 @@ African Cities | [Question](https://www.hackerrank.com/challenges/african-cities
 Average Population of Each Continent | [Question](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Average%20Population%20of%20Each%20Continent.sql)
 Draw The Triangle 1 | [Question](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Draw%20The%20Triangle%201.sql)
 Draw The Triangle 2 | [Question](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Draw%20The%20Triangle%202.sql)
-The PADS | [Question](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution]https://github.com/JuntaoDong/hackerrank/blob/master/SQL/The%20PADS.sql)
+The PADS | [Question](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/The%20PADS.sql)
 Occupations | [Question](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Occupations.sql)
 Binary Tree Nodes | [Question](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Binary%20Tree%20Nodes.sql)
 New Companies | [Question](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/New%20Companies.sql)
