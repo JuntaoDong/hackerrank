@@ -116,6 +116,8 @@ Projects | [Question](https://www.hackerrank.com/challenges/projects/problem) | 
 Placements | [Question](https://www.hackerrank.com/challenges/placements/problem) | [Solution]()
 Symmetric Pairs | [Question](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [Solution]()
 The Report | [Question](https://www.hackerrank.com/challenges/the-report/problem) | [Solution]()
+Top Competitors | [Question](https://www.hackerrank.com/challenges/full-score/problem) | [Solution]()
+Ollivander's Inventory | [Question](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution]()
 
 
 Interviews | [Question](https://www.hackerrank.com/challenges/interviews/problem) | [Solution]()
