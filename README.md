@@ -118,6 +118,8 @@ Symmetric Pairs | [Question](https://www.hackerrank.com/challenges/symmetric-pai
 The Report | [Question](https://www.hackerrank.com/challenges/the-report/problem) | [Solution]()
 Top Competitors | [Question](https://www.hackerrank.com/challenges/full-score/problem) | [Solution]()
 Ollivander's Inventory | [Question](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution]()
-
-
+Challenges | [Question](https://www.hackerrank.com/challenges/challenges/problem) | [Solution]()
+Contest Leaderboard | [Question](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Solution]()
+Print Prime Numbers | [Question](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [Solution]()
 Interviews | [Question](https://www.hackerrank.com/challenges/interviews/problem) | [Solution]()
+15 Days of Learning SQL | [Question](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [Solution]()
