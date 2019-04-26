@@ -123,4 +123,12 @@ Contest Leaderboard | [Question](https://www.hackerrank.com/challenges/contest-l
 Print Prime Numbers | [Question](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Print%20Prime%20Numbers.sql)
 Interviews | [Question](https://www.hackerrank.com/challenges/interviews/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/Interviews.sql)
 15 Days of Learning SQL | [Question](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/SQL/15%20Days%20of%20Learning%20SQL.sql)
- 
+
+## Data Structures - Python 3
+
+| Title | Question | Solution |
+| ----- | -------- | -------- |
+Arrays - DS | [Question](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution]()
+2D Arrays - DS | [Question](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution]()
+Dynamic Array | [Question](https://www.hackerrank.com/challenges/dynamic-array/problem) | [Solution]()
+Left Rotation | [Question](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [Solution]()
