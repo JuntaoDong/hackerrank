@@ -132,3 +132,5 @@ Arrays - DS | [Question](https://www.hackerrank.com/challenges/arrays-ds/problem
 2D Arrays - DS | [Question](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution]()
 Dynamic Array | [Question](https://www.hackerrank.com/challenges/dynamic-array/problem) | [Solution]()
 Left Rotation | [Question](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [Solution]()
+Sparse Arrays | [Question](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [Solution]()
+Array Manipulation | [Question](https://www.hackerrank.com/challenges/crush/problem) | [Solution]()
