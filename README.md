@@ -134,3 +134,5 @@ Dynamic Array | [Question](https://www.hackerrank.com/challenges/dynamic-array/p
 Left Rotation | [Question](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [Solution]()
 Sparse Arrays | [Question](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [Solution]()
 Array Manipulation | [Question](https://www.hackerrank.com/challenges/crush/problem) | [Solution]()
+Print the Elements of a Linked List | [Question](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution]()
+Insert a Node at the Tail of a Linked List | [Question](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | [Solution]()
