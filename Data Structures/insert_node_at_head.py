@@ -16,6 +16,7 @@ class SinglyLinkedListNode:
 class SinglyLinkedList:
     def __init__(self):
         self.head = None
+        self.tail = None
 
 
 def print_singly_linked_list(node, sep, fptr):
@@ -27,18 +28,16 @@ def print_singly_linked_list(node, sep, fptr):
         if node:
             fptr.write(sep)
 
-# Complete the insertNodeAtTail function below.
-
-def insertNodeAtTail(head, data):
+# Complete the insertNodeAtHead function below.
+def insertNodeAtHead(llist, data):
+    # Write your code here
     new_node = SinglyLinkedListNode(data)
-    if not head:
-        head = new_node
-        return head
-    temp = head
-    while temp.next:
-        temp = temp.next
-    temp.next = new_node
-    return head
+    if not llist:
+        llist = new_node
+        return llist
+    else:
+        new_node.next = llist
+        return new_node
 
 
 if __name__ == '__main__':
@@ -48,9 +47,9 @@ if __name__ == '__main__':
 
     llist = SinglyLinkedList()
 
-    for i in range(llist_count):
+    for _ in range(llist_count):
         llist_item = int(input())
-        llist_head = insertNodeAtTail(llist.head, llist_item)
+        llist_head = insertNodeAtHead(llist.head, llist_item)
         llist.head = llist_head
 
     print_singly_linked_list(llist.head, '\n', fptr)
