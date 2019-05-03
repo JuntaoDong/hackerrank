@@ -6,30 +6,30 @@ import random
 import re
 import sys
 
-
-class SinglyLinkedListNode:
+class DoublyLinkedListNode:
     def __init__(self, node_data):
         self.data = node_data
         self.next = None
+        self.prev = None
 
-
-class SinglyLinkedList:
+class DoublyLinkedList:
     def __init__(self):
         self.head = None
         self.tail = None
 
     def insert_node(self, node_data):
-        node = SinglyLinkedListNode(node_data)
+        node = DoublyLinkedListNode(node_data)
 
         if not self.head:
             self.head = node
         else:
             self.tail.next = node
+            node.prev = self.tail
+
 
         self.tail = node
 
-
-def print_singly_linked_list(node, sep, fptr):
+def print_doubly_linked_list(node, sep, fptr):
     while node:
         fptr.write(str(node.data))
 
@@ -41,26 +41,29 @@ def print_singly_linked_list(node, sep, fptr):
 def reverse(head):
     if not head:
         return
-    temp = head
-    prev = None
-    while temp.next:
-        temp = temp.next
-        head.next = prev
-        prev = head
-        head = temp
-    head.next = prev
+    nxt = None
+    prv = None
+    while head.next:
+        nxt = head.next
+        head.next = prv
+        head.prev = nxt
+        prv = head
+        head = nxt
+    head.next = prv
+    head.prev = None
     return head
+
 
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    tests = int(input())
+    t = int(input())
 
-    for tests_itr in range(tests):
+    for t_itr in range(t):
         llist_count = int(input())
 
-        llist = SinglyLinkedList()
+        llist = DoublyLinkedList()
 
         for _ in range(llist_count):
             llist_item = int(input())
@@ -68,7 +71,7 @@ if __name__ == '__main__':
 
         llist1 = reverse(llist.head)
 
-        print_singly_linked_list(llist1, ' ', fptr)
+        print_doubly_linked_list(llist1, ' ', fptr)
         fptr.write('\n')
 
     fptr.close()

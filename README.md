@@ -146,3 +146,27 @@ Merge two sorted linked lists | [Question](https://www.hackerrank.com/challenges
 Get Node Value | [Question](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Data%20Structures/get_node_value.py)
 Delete duplicate-value nodes from a sorted linked list | [Question](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Data%20Structures/delete_duplicate_nodes.py)
 Cycle Detection | [Question](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Data%20Structures/cycle_detection.py)
+Find Merge Point of Two Lists | [Question](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) | [Solution]()
+Inserting a Node Into a Sorted Doubly Linked List | [Question](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) | [Solution]()
+Reverse a doubly linked list | [Question](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | [Solution]()
+Tree: Preorder Traversal | [Question](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) | [Solution]()
+
+## Algorithms - Python 3
+
+| Title | Question | Solution |
+| ----- | -------- | -------- |
+Solve Me First | [Question](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution]()
+Simple Array Sum | [Question](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution]()
+Compare the Triplets | [Question](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution]()
+A Very Big Sum | [Question](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution]()
+Diagonal Difference | [Question](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution]()
+Plus Minus | [Question](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution]()
+Staircase | [Question](https://www.hackerrank.com/challenges/staircase/problem) | [Solution]()
+Mini-Max Sum | [Question](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution]()
+Birthday Cake Candles | [Question](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution]()
+
+
+
+
+ | [Question]() | [Solution]()
+ | [Question]() | [Solution]()
