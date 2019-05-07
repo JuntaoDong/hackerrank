@@ -166,3 +166,4 @@ Mini-Max Sum | [Question](https://www.hackerrank.com/challenges/mini-max-sum/pro
 Birthday Cake Candles | [Question](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Algorithms/birthday_cake_candles.py)
 Grading Students | [Question](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Algorithms/grading_students.py)
 Time Conversion | [Question](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution]()
+Apple and Orange | [Question](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution]()
