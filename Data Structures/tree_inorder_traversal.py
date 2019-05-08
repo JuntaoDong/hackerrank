@@ -1,23 +1,24 @@
 class Node:
-    def __init__(self, info): 
-        self.info = info  
-        self.left = None  
-        self.right = None 
-        self.level = None 
+    def __init__(self, info):
+        self.info = info
+        self.left = None
+        self.right = None
+        self.level = None
 
     def __str__(self):
-        return str(self.info) 
+        return str(self.info)
+
 
 class BinarySearchTree:
-    def __init__(self): 
+    def __init__(self):
         self.root = None
 
-    def create(self, val):  
+    def create(self, val):
         if self.root == None:
             self.root = Node(val)
         else:
             current = self.root
-         
+
             while True:
                 if val < current.info:
                     if current.left:
@@ -34,12 +35,14 @@ class BinarySearchTree:
                 else:
                     break
 
-def preOrder(root):
+
+def inOrder(root):
     if not root:
-        return 
+        return
+    inOrder(root.left)
     print(root.info, end=' ')
-    preOrder(root.left)
-    preOrder(root.right)
+    inOrder(root.right)
+
 
 tree = BinarySearchTree()
 t = int(input())
@@ -49,4 +52,4 @@ arr = list(map(int, input().split()))
 for i in range(t):
     tree.create(arr[i])
 
-preOrder(tree.root)
+inOrder(tree.root)

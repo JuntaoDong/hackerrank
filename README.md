@@ -150,6 +150,10 @@ Find Merge Point of Two Lists | [Question](https://www.hackerrank.com/challenges
 Inserting a Node Into a Sorted Doubly Linked List | [Question](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Data%20Structures/insert_node_into_sorted_doubly_llist.py)
 Reverse a doubly linked list | [Question](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Data%20Structures/reverse_doubly_linked_list.py)
 Tree: Preorder Traversal | [Question](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Data%20Structures/tree_preorder_traversal.py)
+Tree: Postorder Traversal | [Question](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) | [Solution]()
+Tree: Inorder Traversal | [Question](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) | [Solution]()
+Tree: Height of a Binary Tree | [Question](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | [Solution]()
+
 
 ## Algorithms - Python 3
 
