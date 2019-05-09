@@ -35,7 +35,7 @@ class BinarySearchTree:
                 else:
                     break
 
-
+# O(n)
 def height(root):
     if root == None or (root.left == None and root.right == None):
         return 0
