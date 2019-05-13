@@ -171,3 +171,4 @@ Birthday Cake Candles | [Question](https://www.hackerrank.com/challenges/birthda
 Grading Students | [Question](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/JuntaoDong/hackerrank/blob/master/Algorithms/grading_students.py)
 Time Conversion | [Question](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution]()
 Apple and Orange | [Question](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution]()
+Kangaroo | [Question](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution]()
