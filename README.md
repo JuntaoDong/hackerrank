@@ -1,4 +1,4 @@
-# HackerRank Solutions - Keep Updating
+# HackerRank Solutions - Incomplete
 
 ![Hackerrank](https://github.com/JuntaoDong/hackerrank/blob/master/hackerrank.png)
 
