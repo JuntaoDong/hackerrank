@@ -1,4 +1,4 @@
-# HackerRank Solutions - Incomplete
+# HackerRank Solutions - Inactive
 
 ![Hackerrank](https://github.com/JuntaoDong/hackerrank/blob/master/hackerrank.png)
 
